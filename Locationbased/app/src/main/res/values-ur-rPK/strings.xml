@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Locationbased</string>
+    <string name="button1">>ہیلو دنیا</string>
+    <string name="hello_world">اب شروع کریں</string>
+    <string name="toast">تم کیسی ہو</string>
+</resources>

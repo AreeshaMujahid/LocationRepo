@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Locationbased</string>
+    <string name="hello_world">Hello world</string>
+    <string name="button1">start now</string>
+    <string name="toast">how are you</string>
+
+
+</resources>
